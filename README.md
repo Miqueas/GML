@@ -1,4 +1,4 @@
-# A CSS-like language for GTK templates
+# GML
 
 GTK Mockup Metalanguage (GML for simplicity) is an attempt to replace the XML used in GTK templates.
 
