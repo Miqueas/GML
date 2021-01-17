@@ -2,7 +2,7 @@
 
 GTK Mockup Metalanguage (GML for simplicity) is an attempt to replace the XML used in GTK templates.
 
-__Note: GML is a WIP, some things in this README can be change__
+__Note: GML is a WIP, some things can drastically change.__
 
 ### *"Why?"*
 
