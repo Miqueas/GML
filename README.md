@@ -9,5 +9,3 @@ Honestly, I think it's a pain in the \*ss to create GTK templates with XML. Also
 ### *"How does it work?*
 
 You write your templates in GML and then compile them into the usual XML used by GTK.
-
-Translated with www.DeepL.com/Translator (free version)
