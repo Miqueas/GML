@@ -1,6 +1,15 @@
+Import:
+
+  'import' <LibraryName>';'
+
+
+Namespaces:
+
+  <Namespace1>'.'<Namespace2>['.'<NamespaceN> (...)]
+
 SimpleObject:
 
-  <ClassName> '{'
+  (Namespaces)'.'<ClassName> '{'
     [property-name]':' <value>;
     [property-name]':' <value>;
     (...)
@@ -8,7 +17,7 @@ SimpleObject:
 
 ObjectWithChildren:
 
-  <ClassName> '{'
+  (Namespaces)'.'<ClassName> '{'
     (Properties...)
 
     Children '['
@@ -18,7 +27,7 @@ ObjectWithChildren:
 
 PackingProperties:
 
-  <ClassName> '{'
+  (Namespaces)'.'<ClassName> '{'
     (Properties...)
 
     Packing '{'
@@ -28,7 +37,7 @@ PackingProperties:
 
 StyleProperties:
 
-  <ClassName> '{'
+  (Namespaces)'.'<ClassName> '{'
     (Properties...)
 
     Style '{'
