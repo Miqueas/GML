@@ -1,0 +1,49 @@
+SimpleObject:
+
+  <ClassName> '{'
+    [property-name]':' <value>;
+    [property-name]':' <value>;
+    (...)
+  '}'
+
+ObjectWithChildren:
+
+  <ClassName> '{'
+    (Properties...)
+
+    Children '['
+      (Objects...)
+    ']'
+  '}'
+
+PackingProperties:
+
+  <ClassName> '{'
+    (Properties...)
+
+    Packing '{'
+      (Properties...)
+    '}'
+  '}'
+
+StyleProperties:
+
+  <ClassName> '{'
+    (Properties...)
+
+    Style '{'
+      (Properties...)
+    '}'
+  '}'
+
+Arrays:
+
+  '[' <Value1>, <Value2> [, <ValueN> (...) ] ']'
+
+Variables:
+
+  '$'<VarName>':' <Value>
+
+Functions:
+
+  <FunctionName>'('<Arg1>, <Arg2> [, <ArgN> (...) ]')'
