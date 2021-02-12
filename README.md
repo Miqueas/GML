@@ -1,4 +1,4 @@
-# GML (WIP)
+# GML [WIP]
 
 GTK Mockup Metalanguage (GML for simplicity) is an attempt to replace the XML used in GTK templates.
 
