@@ -1,3 +1,5 @@
+[![License][LicenseBadge]][licenseURL]
+
 # GML [WIP]
 
 GTK Mockup Metalanguage (GML for simplicity) is an attempt to replace the XML used in GTK templates.
@@ -90,3 +92,6 @@ And compiles to this:
 
 </interface>
 ```
+
+[LicenseBadge]: https://img.shields.io/badge/License-Zlib-brightgreen?style=for-the-badge
+[LicenseURL]: https://opensource.org/licenses/Zlib
