@@ -2,7 +2,7 @@
 
 # DEPRECATED!!!!!!!!11111
 
-I never made ANYTHING with this repo and now there's this another project: [jwestman/gtk-blueprint-tool](https://gitlab.gnome.org/jwestman/gtk-blueprint-tool/). Is basically the same idea, but that one actually works, it just need more contributions and i'll try to contribute to that project instead.
+I never made ANYTHING with this repo and now there's this another project: [jwestman/gtk-blueprint-tool](https://gitlab.gnome.org/jwestman/blueprint-compiler). Is basically the same idea, but that one actually works, it just need more contributions and i'll try to contribute to that project instead.
 
 # GML [WIP]
 
